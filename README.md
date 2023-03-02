@@ -1,4 +1,4 @@
-# 3D Aquarium [Link](https://jaydeep-p.github.io/aquarium/)
+# 3D Aquarium [Link](https://vatsalyapandey.github.io/Aquarium)
 
 A 3D aquarium scene I made using react-three-fiber(three.js) and Reactjs.
 
